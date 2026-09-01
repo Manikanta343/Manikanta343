@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manikanta;AI+%26+ML+Engineer+in+the+Making;Data+Analyst+%7C+NLP+%7C+Graph+Networks;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
-<br/>
+<br><br>
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/srigakollu-manikanta-99a439390">
