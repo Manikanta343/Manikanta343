@@ -6,7 +6,8 @@
   if you ever change your handle.
   =========================================================
 -->
-
+<h1 align="center">Hi there, I'm Srigakollu Manikanta 👋</h1>
+<h3 align="center">Data Analyst | AI/ML Enthusiast</h3>
 <div align="center">
 
 <!-- Animated typing banner -->
